@@ -61,7 +61,8 @@ export default function Hero() {
               transition={{ delay: 0.8 }}
               className="flex flex-wrap gap-5 mt-10"
             >
-              <button
+              <a href="https://codebysunil.vercel.app/">
+                 <button
                 className="
                   px-8 py-4 rounded-full font-semibold
                   bg-gradient-to-r from-cyan-500 to-pink-500
@@ -71,8 +72,10 @@ export default function Hero() {
               >
                 Explore Journey
               </button>
-
-              <button
+              </a>
+             
+ <a href="https://codebysunil.vercel.app/">
+                <button
                 className="
                   border border-white/10
                   px-8 py-4 rounded-full
@@ -82,6 +85,8 @@ export default function Hero() {
               >
                 View Projects
               </button>
+              </a>
+             
             </motion.div>
 
             {/* Stats */}
