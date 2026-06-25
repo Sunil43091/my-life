@@ -84,7 +84,9 @@ export default function Navbar() {
               duration-300
             "
           >
-         See My Work
+        <a href="https://codebysunil.vercel.app/" target="_blank" rel="noopener noreferrer">
+                    See My Work
+                  </a>
           </button>
 
           {/* Mobile Toggle */}
