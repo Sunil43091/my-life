@@ -61,7 +61,7 @@ export default function Hero() {
               transition={{ delay: 0.8 }}
               className="flex flex-wrap gap-5 mt-10"
             >
-              <a href="https://codebysunil.vercel.app/">
+              <a href="https://codebysunil.vercel.app/" class="cursor-pointer" target="_blank" rel="noopener noreferrer">
                  <button
                 className="
                   px-8 py-4 rounded-full font-semibold
@@ -74,9 +74,9 @@ export default function Hero() {
               </button>
               </a>
              
- <a href="https://codebysunil.vercel.app/">
+                <a href="https://codebysunil.vercel.app/" target="_blank" rel="noopener noreferrer" class="cursor-pointer">
                 <button
-                className="
+                  className="
                   border border-white/10
                   px-8 py-4 rounded-full
                   hover:bg-white/5
