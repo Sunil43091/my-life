@@ -84,7 +84,7 @@ export default function Navbar() {
               duration-300
             "
           >
-            Resume
+         See My Work
           </button>
 
           {/* Mobile Toggle */}
