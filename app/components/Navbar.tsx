@@ -144,7 +144,7 @@ export default function Navbar() {
                   "
                 >
                   <a href="https://codebysunil.vercel.app/" target="_blank" rel="noopener noreferrer">
-                    Resume
+                    See My Work
                   </a>
                 </button>
               </nav>
