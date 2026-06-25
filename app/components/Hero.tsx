@@ -63,7 +63,7 @@ export default function Hero() {
             >
               <a href="https://codebysunil.vercel.app/" className="cursor-pointer" target="_blank" rel="noopener noreferrer">
                  <button
-                className="
+                className=" cursor-pointer
                   px-8 py-4 rounded-full font-semibold
                   bg-gradient-to-r from-cyan-500 to-pink-500
                   hover:scale-105 transition duration-300
@@ -76,7 +76,7 @@ export default function Hero() {
              
                 <a href="https://codebysunil.vercel.app/" target="_blank" rel="noopener noreferrer" className="cursor-pointer">
                 <button
-                  className="
+                  className=" cursor-pointer
                   border border-white/10
                   px-8 py-4 rounded-full
                   hover:bg-white/5
